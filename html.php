@@ -13,6 +13,36 @@ include 'data.php';
     <title>UEFA Football Teams</title>
 </head>
 
+<style>
+    .grid-container {
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        gap: 40px;
+    }
+
+    .team-emblems img {
+        max-width: 50%;
+        height: auto;
+    }
+
+    .team-emblems {
+        text-align: center;
+        box-shadow: 10px 10px 10px 10px gray;
+        background-color: darkgray;
+        border-radius: 5%;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 80px;
+    }
+
+    body {
+        background-color: lightgrey;
+
+    }
+</style>
+
 <body>
 
     <h1>⚽️ UEFA Footboll Teams ⚽️</h1>
