@@ -7,7 +7,8 @@ $teams = [
         'city' => 'Barcelona',
         'url' => 'https://www.fcbarcelona.com/',
         'logo' => 'https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg',
-        'group' => 'D'
+        'group' => 'D',
+        'flag' => '🇪🇸'
     ],
     'Chelsea' => [
         'league' => 'Women\’s Super League (England)',
@@ -15,7 +16,8 @@ $teams = [
         'city' => 'London',
         'url' => 'https://www.chelseafc.com/',
         'logo' => 'https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg',
-        'group' => 'B'
+        'group' => 'B',
+        'flag' => '🏴󠁧󠁢󠁥󠁮󠁧󠁿'
     ],
     'Wolfsburg' => [
         'league' => 'Frauen-Bundesliga (Germany)',
@@ -23,7 +25,8 @@ $teams = [
         'city' => 'Wolfsburg',
         'url' => 'https://www.vfl-wolfsburg.de/',
         'logo' => 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/840px-VfL_Wolfsburg_Logo.svg.png?20150906163520',
-        'group' => 'A'
+        'group' => 'A',
+        'flag' => '🇩🇪'
     ],
     'Roma' => [
         'league' => 'Serie A (Italy)',
@@ -31,7 +34,8 @@ $teams = [
         'city' => 'Rome',
         'url' => 'https://www.asroma.com/',
         'logo' => 'https://upload.wikimedia.org/wikipedia/en/f/f7/AS_Roma_logo_%282017%29.svg',
-        'group' => 'A'
+        'group' => 'A',
+        'flag' => '🇮🇹'
     ],
     'Real Madrid' => [
         'league' => 'Primera División (Spain)',
@@ -39,7 +43,8 @@ $teams = [
         'city' => 'Madrid',
         'url' => 'https://www.realmadrid.com/',
         'logo' => 'https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg',
-        'group' => 'B'
+        'group' => 'B',
+        'flag' => '🇪🇸'
     ],
     'Bayern Munich' => [
         'league' => 'Frauen-Bundesliga (Germany)',
@@ -47,7 +52,8 @@ $teams = [
         'city' => 'Munich',
         'url' => 'https://fcbayern.com/',
         'logo' => 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png',
-        'group' => 'C'
+        'group' => 'C',
+        'flag' => '🇩🇪'
     ],
     'Paris Saint-Germain' => [
         'league' => 'Division 1 Féminine (France)',
@@ -55,7 +61,8 @@ $teams = [
         'city' => 'Paris',
         'url' => 'https://en.psg.fr/',
         'logo' => 'https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg',
-        'group' => 'N/A'
+        'group' => 'N/A',
+        'flag' => '🇫🇷'
     ],
     'Arsenal' => [
         'league' => 'Women\’s Super League (England)',
@@ -63,7 +70,8 @@ $teams = [
         'city' => 'London',
         'url' => 'https://www.arsenal.com/',
         'logo' => 'https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg',
-        'group' => 'C'
+        'group' => 'C',
+        'flag' => '🏴󠁧󠁢󠁥󠁮󠁧󠁿'
     ],
     'Lyon' => [
         'league' => 'Division 1 Féminine (France)',
@@ -71,7 +79,8 @@ $teams = [
         'city' => 'Lyon',
         'url' => 'https://www.ol.fr/',
         'logo' => 'https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/1200px-Olympique_Lyonnais_logo.svg.png',
-        'group' => 'A'
+        'group' => 'A',
+        'flag' => '🇫🇷'
     ],
     'Hammarby' => [
         'league' => 'Damallsvenskan (Sweden)',
@@ -79,7 +88,8 @@ $teams = [
         'city' => 'Stockholm',
         'url' => 'https://www.hammarbyfotboll.se/',
         'logo' => 'https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Hammarby_IF_logo.svg/1200px-Hammarby_IF_logo.svg.png',
-        'group' => 'D'
+        'group' => 'D',
+        'flag' => '🇸🇪'
     ],
     'Juventus' => [
         'league' => 'Serie A (Italy)',
@@ -87,7 +97,8 @@ $teams = [
         'city' => 'Turin',
         'url' => 'https://www.juventus.com/',
         'logo' => 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Juventus_Logo.png/1200px-Juventus_Logo.png',
-        'group' => 'C'
+        'group' => 'C',
+        'flag' => '🇮🇹'
     ],
     'Twente' => [
         'league' => 'Eredivisie (Netherlands)',
@@ -95,7 +106,8 @@ $teams = [
         'city' => 'Enschede',
         'url' => 'https://www.fctwente.nl/',
         'logo' => 'https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/FC_Twente.svg/1200px-FC_Twente.svg.png',
-        'group' => 'B'
+        'group' => 'B',
+        'flag' => '🇳🇱'
     ],
     'Galatasaray' => [
         'league' => 'Turkish Women\’s Super League',
@@ -103,7 +115,8 @@ $teams = [
         'city' => 'Istanbul',
         'url' => 'https://www.galatasaray.org/',
         'logo' => 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galatasaray_Sports_Club_Logo.png/822px-Galatasaray_Sports_Club_Logo.png',
-        'group' => 'A'
+        'group' => 'A',
+        'flag' => '🇹🇷'
     ],
     'Vålerenga' => [
         'league' => 'Toppserien (Norway)',
@@ -111,7 +124,9 @@ $teams = [
         'city' => 'Oslo',
         'url' => 'https://www.vif-fotball.no/',
         'logo' => 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/V%C3%A5lerenga_Oslo_logo.svg/1280px-V%C3%A5lerenga_Oslo_logo.svg.png',
-        'group' => 'C'
+        'group' => 'C',
+        'flag' => '🇳🇴'
+
     ],
     'SKN St. Pölten' => [
         'league' => 'ÖFB-Frauenliga (Austria)',
@@ -119,7 +134,8 @@ $teams = [
         'city' => 'St. Pölten',
         'url' => 'https://www.skn-frauen.at/',
         'logo' => 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkiSy4BkhZp1RgOL8cKly0rIU2uSXshWGSzQ&s',
-        'group' => 'D'
+        'group' => 'D',
+        'flag' => '🇦🇹'
     ],
     'Manchester City' => [
         'league' => 'Women\’s Super League (England)',
@@ -127,6 +143,7 @@ $teams = [
         'city' => 'Manchester',
         'url' => 'https://www.mancity.com/',
         'logo' => 'https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg',
-        'group' => 'D'
+        'group' => 'D',
+        'flag' => '🏴󠁧󠁢󠁥󠁮󠁧󠁿'
     ],
 ];
