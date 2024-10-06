@@ -2,7 +2,7 @@
 
 $teams = [
     'Barcelona' => [
-        'league' => 'Primera División (Spain)',
+        'league' => 'Primera División',
         'uefa-coefficient-ranking' => 1,
         'city' => 'Barcelona',
         'url' => 'https://www.fcbarcelona.com/',
@@ -20,7 +20,7 @@ $teams = [
         'flag' => '🏴󠁧󠁢󠁥󠁮󠁧󠁿'
     ],
     'Wolfsburg' => [
-        'league' => 'Frauen-Bundesliga (Germany)',
+        'league' => 'Frauen-Bundesliga',
         'uefa-coefficient-ranking' => 4,
         'city' => 'Wolfsburg',
         'url' => 'https://www.vfl-wolfsburg.de/',
@@ -29,7 +29,7 @@ $teams = [
         'flag' => '🇩🇪'
     ],
     'Roma' => [
-        'league' => 'Serie A (Italy)',
+        'league' => 'Serie A',
         'uefa-coefficient-ranking' => 17,
         'city' => 'Rome',
         'url' => 'https://www.asroma.com/',
@@ -38,7 +38,7 @@ $teams = [
         'flag' => '🇮🇹'
     ],
     'Real Madrid' => [
-        'league' => 'Primera División (Spain)',
+        'league' => 'Primera División',
         'uefa-coefficient-ranking' => 8,
         'city' => 'Madrid',
         'url' => 'https://www.realmadrid.com/',
@@ -47,7 +47,7 @@ $teams = [
         'flag' => '🇪🇸'
     ],
     'Bayern Munich' => [
-        'league' => 'Frauen-Bundesliga (Germany)',
+        'league' => 'Frauen-Bundesliga',
         'uefa-coefficient-ranking' => 5,
         'city' => 'Munich',
         'url' => 'https://fcbayern.com/',
@@ -56,7 +56,7 @@ $teams = [
         'flag' => '🇩🇪'
     ],
     'Paris Saint-Germain' => [
-        'league' => 'Division 1 Féminine (France)',
+        'league' => 'Division 1 Féminine',
         'uefa-coefficient-ranking' => 2,
         'city' => 'Paris',
         'url' => 'https://en.psg.fr/',
@@ -65,7 +65,7 @@ $teams = [
         'flag' => '🇫🇷'
     ],
     'Arsenal' => [
-        'league' => 'Women\’s Super League (England)',
+        'league' => 'Women\’s Super League',
         'uefa-coefficient-ranking' => 7,
         'city' => 'London',
         'url' => 'https://www.arsenal.com/',
@@ -74,7 +74,7 @@ $teams = [
         'flag' => '🏴󠁧󠁢󠁥󠁮󠁧󠁿'
     ],
     'Lyon' => [
-        'league' => 'Division 1 Féminine (France)',
+        'league' => 'Division 1 Féminine',
         'uefa-coefficient-ranking' => 3,
         'city' => 'Lyon',
         'url' => 'https://www.ol.fr/',
@@ -83,7 +83,7 @@ $teams = [
         'flag' => '🇫🇷'
     ],
     'Hammarby' => [
-        'league' => 'Damallsvenskan (Sweden)',
+        'league' => 'Damallsvenskan',
         'uefa-coefficient-ranking' => 'Not ranked',
         'city' => 'Stockholm',
         'url' => 'https://www.hammarbyfotboll.se/',
@@ -92,7 +92,7 @@ $teams = [
         'flag' => '🇸🇪'
     ],
     'Juventus' => [
-        'league' => 'Serie A (Italy)',
+        'league' => 'Serie A',
         'uefa-coefficient-ranking' => 10,
         'city' => 'Turin',
         'url' => 'https://www.juventus.com/',
@@ -101,7 +101,7 @@ $teams = [
         'flag' => '🇮🇹'
     ],
     'Twente' => [
-        'league' => 'Eredivisie (Netherlands)',
+        'league' => 'Eredivisie',
         'uefa-coefficient-ranking' => 31,
         'city' => 'Enschede',
         'url' => 'https://www.fctwente.nl/',
@@ -119,7 +119,7 @@ $teams = [
         'flag' => '🇹🇷'
     ],
     'Vålerenga' => [
-        'league' => 'Toppserien (Norway)',
+        'league' => 'Toppserien',
         'uefa-coefficient-ranking' => 38,
         'city' => 'Oslo',
         'url' => 'https://www.vif-fotball.no/',
@@ -129,7 +129,7 @@ $teams = [
 
     ],
     'SKN St. Pölten' => [
-        'league' => 'ÖFB-Frauenliga (Austria)',
+        'league' => 'ÖFB-Frauenliga',
         'uefa-coefficient-ranking' => 26,
         'city' => 'St. Pölten',
         'url' => 'https://www.skn-frauen.at/',
@@ -138,7 +138,7 @@ $teams = [
         'flag' => '🇦🇹'
     ],
     'Manchester City' => [
-        'league' => 'Women\’s Super League (England)',
+        'league' => 'Women\’s Super League',
         'uefa-coefficient-ranking' => 9,
         'city' => 'Manchester',
         'url' => 'https://www.mancity.com/',
